@@ -317,6 +317,18 @@ Potential future improvements include:
 
 ---
 
+## Project Showcase
+
+### Project Photo
+
+![Project Showcase](images/project_showcase.jpeg)
+
+### Project Demonstration
+
+[▶ Watch the Project Demonstration](images/project_demonstration.mov)
+
+---
+
 ## About the Developer
 
 **Jadaya Alston**
