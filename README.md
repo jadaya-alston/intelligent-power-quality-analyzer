@@ -61,7 +61,7 @@ V = (ADC Reading / 4095) × 3.3 V
 
 ### Breadboard Wiring
 
-![Breadboard Circuit Wiring](images/breadboard_circuit_wiring.jpg)
+![Breadboard Circuit Wiring](images/breadboard_circuit_wiring.jpeg)
 
 ---
 
