@@ -325,6 +325,10 @@ Potential future improvements include:
 
 ### Project Demonstration
 
+
+https://github.com/user-attachments/assets/108077b6-c243-4338-b7fb-f756c9cdacf7
+
+
 [▶ Watch the Project Demonstration](images/project_demonstration.mov)
 
 ---
